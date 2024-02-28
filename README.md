@@ -5,14 +5,6 @@ https://twitter.com/chrnclee/status/1759067248810238392
 
 NOWWEAREHERE implements style transfer method for styling the rendered image
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Installation
 
 - **Install opencv:**
