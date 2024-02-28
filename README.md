@@ -1,8 +1,6 @@
 # NOWWEAREHERE
 https://twitter.com/chrnclee/status/1759067248810238392
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 ## Description
 
 NOWWEAREHERE implements style transfer method for styling the rendered image
@@ -18,14 +16,13 @@ NOWWEAREHERE implements style transfer method for styling the rendered image
 ## Installation
 
 - **Install opencv:**
-
-```bash
-pip install opencv
+  ```bash
+  pip install opencv
 
 - **Install tensorflow:**
+  ```bash
+  pip install tensorflow
 
-```bash
-pip install tensorflow
 
 ## Usage
 ``
@@ -35,7 +32,3 @@ output_image_path = 'path/to/save/output.png'
 ``
 
 Replace 'path/to/your/reference.png', 'path/to/your/input.png', and 'path/to/save/output.png' with the actual paths and filenames of your reference style image, input image, and desired output image, respectively.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
