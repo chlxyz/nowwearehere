@@ -17,12 +17,12 @@ NOWWEAREHERE implements style transfer method for styling the rendered image
 
 ## Installation
 
-Install OpenCV
+- **Install opencv:**
 
 ```bash
 pip install opencv
 
-Install tensorflow
+- **Install tensorflow:**
 
 ```bash
 pip install tensorflow
