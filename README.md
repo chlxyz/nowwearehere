@@ -23,11 +23,10 @@ NOWWEAREHERE implements style transfer method for styling the rendered image
   ```bash
   pip install tensorflow
 
-
 ## Usage
 ``
-reference_style_image_path = 'path/to/your/reference.png'
-input_image_path = 'path/to/your/input.png'
+reference_style_image_path = 'path/to/your/reference.png' /n
+input_image_path = 'path/to/your/input.png' /n
 output_image_path = 'path/to/save/output.png'
 ``
 
