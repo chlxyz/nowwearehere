@@ -1,6 +1,4 @@
-# Project Name
-NOWWEAREHERE
-
+# NOWWEAREHERE
 https://twitter.com/chrnclee/status/1759067248810238392
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
