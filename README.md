@@ -25,9 +25,9 @@ NOWWEAREHERE implements style transfer method for styling the rendered image
 
 ## Usage
 ``
-reference_style_image_path = 'path/to/your/reference.png' \n
-input_image_path = 'path/to/your/input.png' \n
-output_image_path = 'path/to/save/output.png'
-``
+reference_style_image_path = 'path/to/your/reference.png' ``
+`` input_image_path = 'path/to/your/input.png' ``
+`` output_image_path = 'path/to/save/output.png' `` 
+
 
 Replace 'path/to/your/reference.png', 'path/to/your/input.png', and 'path/to/save/output.png' with the actual paths and filenames of your reference style image, input image, and desired output image, respectively.
